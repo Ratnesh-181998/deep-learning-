@@ -10,3 +10,13 @@
 <img width="531" height="657" alt="image" src="https://github.com/user-attachments/assets/76e02ca7-0ccf-41f3-ae55-5b781123252b" />
 
 ---
+
+# Deep learning lectures.
+# [Playlist](https://www.youtube.com/playlist?list=PLgPbN3w-ia_PeT1_c5jiLW3RJdR7853b9)
+
+<img width="948" height="1153" alt="image" src="https://github.com/user-attachments/assets/81b38404-297a-4c80-b26f-08ce74ebf667" />
+<img width="1055" height="1222" alt="image" src="https://github.com/user-attachments/assets/31040d18-45c2-4f29-8da6-b9b4add26b8c" />
+<img width="915" height="785" alt="image" src="https://github.com/user-attachments/assets/e43b4643-d97f-4d09-863b-402eecd3eba3" />
+
+---
+

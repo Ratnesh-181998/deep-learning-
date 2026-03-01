@@ -28,6 +28,31 @@
 <img width="819" height="1318" alt="image" src="https://github.com/user-attachments/assets/4de3d99d-0ea8-4c38-8779-897cf5669141" />
 <img width="1096" height="795" alt="image" src="https://github.com/user-attachments/assets/4d194637-3ebf-4204-959e-642ae7ad37bc" />
 
+---
+
+# Best GitHub Repos to Learn AI From Scratch in 2026:
+
+## 1. Andrej Karpathy – Neural Networks: Zero to Hero
+- https://github.com/karpathy/nn-zero-to-hero
+
+##  2. Hugging Face Transformers
+- https://github.com/huggingface/transformers
+
+##  3. FastAI/fastb
+- https://github.com/fastai/fastbook
+
+##  4. Made-With-ML
+- https://github.com/GokuMohandas/Made-With-ML
+
+##  5. ML System Design
+- https://github.com/chiphuyen/machine-learning-systems-design
+
+##  6. Awesome Generative AI guide(
+- https://github.com/aishwaryanr/awesome-generative-ai-guide
+
+## 7. Dive into Deep Learning
+- https://github.com/d2l-ai/d2l-en
+
 
 
 ---

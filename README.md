@@ -53,7 +53,10 @@
 ## 7. Dive into Deep Learning
 - https://github.com/d2l-ai/d2l-en
 
+---
 
+#  MIT OpenCourseWare  Lec 01. Introduction to Deep Learning 
+- https://www.youtube.com/watch?v=6FkRvTtUc-o
 
 ---
 

@@ -58,6 +58,26 @@
 #  MIT OpenCourseWare  Lec 01. Introduction to Deep Learning 
 - https://www.youtube.com/watch?v=6FkRvTtUc-o
 
+
+---
+
+# Deep Learning questions are a must-know part of AI interviews.
+- [And they’re no longer basic]()
+
+<img width="1096" height="1206" alt="image" src="https://github.com/user-attachments/assets/4c7a71bb-b7a3-4770-a967-590c8cfaa33a" />
+<img width="1070" height="1290" alt="image" src="https://github.com/user-attachments/assets/f82f24db-2b55-4eaa-ad02-e544510cd515" />
+<img width="1074" height="1057" alt="image" src="https://github.com/user-attachments/assets/dd2561fd-dc48-4af2-b015-dcd8071898d6" />
+<img width="1060" height="1206" alt="image" src="https://github.com/user-attachments/assets/5fbce82c-e6a0-48a3-aa8e-a18434c6ad5b" />
+<img width="1063" height="1186" alt="image" src="https://github.com/user-attachments/assets/d47731dd-242c-47c2-83b8-2dafdb030064" />
+<img width="1061" height="1052" alt="image" src="https://github.com/user-attachments/assets/0cc29fcf-b07d-488d-9cb0-33d8828d500a" />
+<img width="1039" height="1240" alt="image" src="https://github.com/user-attachments/assets/0cd28d53-4a81-4473-8fab-a2ab1c78b5a1" />
+<img width="1073" height="1255" alt="image" src="https://github.com/user-attachments/assets/6946e82f-0573-4925-b1b0-eb88d694237b" />
+<img width="1061" height="908" alt="image" src="https://github.com/user-attachments/assets/ac7fb122-20b4-4774-a590-00afaddc5b51" />
+<img width="1038" height="1133" alt="image" src="https://github.com/user-attachments/assets/5331a774-ed18-4b7c-88a8-0e7272f5e226" />
+<img width="1054" height="1277" alt="image" src="https://github.com/user-attachments/assets/8915050c-310e-4596-ad5d-86748f35392f" />
+<img width="1007" height="1129" alt="image" src="https://github.com/user-attachments/assets/30e0c7e0-29af-4a02-88cc-103a982e5d26" />
+
+
 ---
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24,20,12,6&height=3" width="100%">

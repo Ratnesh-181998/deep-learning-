@@ -80,6 +80,13 @@
 
 ---
 
+# [ Deep Learning with PyTorch: From Research Agility to Production Scale](https://github.com/Ratnesh-181998/deep-learning-/blob/main/Deep%20Learning%20with%20PyTorch%20From%20Research%20Agility%20to%20Production%20Scale.pdf)
+
+<img width="552" height="1063" alt="image" src="https://github.com/user-attachments/assets/9a6d7bee-80d9-45c0-aa40-e4ae9287ff66" />
+
+
+---
+
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24,20,12,6&height=3" width="100%">
 
 

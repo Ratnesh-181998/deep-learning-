@@ -87,6 +87,15 @@
 
 ---
 
+# [Neural Networks: Zero to Hero by Andrej Karpathy!](https://www.youtube.com/playlist?list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ)
+
+<img width="773" height="494" alt="image" src="https://github.com/user-attachments/assets/2b021255-ecd9-48da-a6e9-01edd6efde4d" />
+
+<img width="1422" height="1126" alt="image" src="https://github.com/user-attachments/assets/3fa1b9e6-d016-42bd-a257-dc9eae15c40f" />
+
+
+---
+
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24,20,12,6&height=3" width="100%">
 
 

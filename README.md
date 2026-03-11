@@ -96,6 +96,12 @@
 
 ---
 
+# [Awesome Deep Learning ](https://github.com/ChristosChristofidis/awesome-deep-learning)
+
+<img width="1197" height="1179" alt="image" src="https://github.com/user-attachments/assets/576be669-ba61-4a81-b3d4-54885caa999c" />
+
+---
+
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24,20,12,6&height=3" width="100%">
 
 

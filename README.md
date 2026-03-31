@@ -89,6 +89,15 @@
 
 # [Neural Networks: Zero to Hero by Andrej Karpathy!](https://www.youtube.com/playlist?list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ)
 
+
+- YouTube Playlist Link: https://www.youtube.com/playlist?list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ
+
+- GitHub Link: https://github.com/karpathy/nn-zero-to-hero
+
+
+<img width="1071" height="797" alt="image" src="https://github.com/user-attachments/assets/95693ea8-27ef-4581-8312-82545bb8909b" />
+<img width="615" height="1132" alt="image" src="https://github.com/user-attachments/assets/19baf48d-bc6c-40b5-aa7e-8363b2d30639" />
+
 <img width="773" height="494" alt="image" src="https://github.com/user-attachments/assets/2b021255-ecd9-48da-a6e9-01edd6efde4d" />
 
 <img width="1422" height="1126" alt="image" src="https://github.com/user-attachments/assets/3fa1b9e6-d016-42bd-a257-dc9eae15c40f" />

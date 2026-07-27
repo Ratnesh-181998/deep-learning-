@@ -105,6 +105,15 @@
 
 ---
 
+# Technical interviews in deep learning go beyond frameworks and APIs.
+
+## [Deep Larning Interviews]( https://github.com/Ratnesh-181998/deep-learning-/blob/main/Deep%20Learning%20Interviews.pdf)
+
+<img width="2408" height="1490" alt="image" src="https://github.com/user-attachments/assets/313ca6f0-499f-49ce-b56d-6a9d1efb0826" />
+<img width="1086" height="680" alt="image" src="https://github.com/user-attachments/assets/09b3b4ec-160a-416b-9021-6de82075b6ac" />
+
+---
+
 # [Awesome Deep Learning ](https://github.com/ChristosChristofidis/awesome-deep-learning)
 
 <img width="1197" height="1179" alt="image" src="https://github.com/user-attachments/assets/576be669-ba61-4a81-b3d4-54885caa999c" />
